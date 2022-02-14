@@ -1,0 +1,5 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+
+nc: 1
+names: ['box']
